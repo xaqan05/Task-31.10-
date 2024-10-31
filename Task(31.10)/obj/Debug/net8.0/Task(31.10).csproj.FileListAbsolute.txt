@@ -1,0 +1,14 @@
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\bin\Debug\net8.0\Task(31.10).exe
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\bin\Debug\net8.0\Task(31.10).deps.json
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\bin\Debug\net8.0\Task(31.10).runtimeconfig.json
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\bin\Debug\net8.0\Task(31.10).dll
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\bin\Debug\net8.0\Task(31.10).pdb
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).dll
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\refint\Task(31.10).dll
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).pdb
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\Task(31.10).genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Task\Task(31.10)\Task(31.10)\obj\Debug\net8.0\ref\Task(31.10).dll
